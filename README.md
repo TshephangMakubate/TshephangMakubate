@@ -42,11 +42,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Stats" />
+  <img width = "400" src="https://github-readme-stats.vercel.app/api?username=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Streak" />
+  <img width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshephangMakubate&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshephangMakubate&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
