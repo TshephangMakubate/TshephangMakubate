@@ -10,7 +10,7 @@
 - 🎓 Computer Science / Business Administration major
 - 💡 Passionate about **product & project management** and optimizing processes end-to-end
 - 🎯 Deep commitment to **prioritizing user experience** in everything I build
-- 🌱 Currently exploring the intersection of technology, business strategy, and design
+- 🌱 Currently exploring technological solutions, business strategy, and game development
 - 🤝 Always open to collaborating on impactful projects
 
 ---
