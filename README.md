@@ -48,9 +48,3 @@
   <br/>
   <img width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshephangMakubate&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TshephangMakubate&icon=0&color=0" alt="Profile Views" />
-</p>
