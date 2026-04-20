@@ -37,14 +37,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img width = "400" src="https://github-readme-stats.vercel.app/api?username=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=TshephangMakubate&theme=slateorange&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshephangMakubate&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
